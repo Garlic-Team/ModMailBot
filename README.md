@@ -1,3 +1,5 @@
+# ARCHIVED, https://github.com/Garlic-Team/other-stuff/tree/modmail
+
 **Requirements:**
 --
 Nodejs v16  
